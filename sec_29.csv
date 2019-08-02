@@ -1,0 +1,101 @@
+,ID,name,categories,lat,lng,cuisines,Rating,Cost for Two
+0,,Roots - Cafe in the Park,Café,28.469499756589546,77.06826400756138,"Cafe, North Indian",4.2,750.0
+1,,21 Gun Salute,Indian Restaurant,28.468322781634438,77.06317428587096,"North Indian, Mughlai, Asian, Continental, Salad, Kebab",4.0,2000.0
+2,,Swagath Restaurant & Bar,Indian Restaurant,28.46998340735945,77.06293189971409,"North Indian, Chinese, South Indian, Seafood, Chettinad",3.8,1500.0
+3,,Mamagoto,Thai Restaurant,28.467691442926334,77.06413271506175,"Asian, Chinese, Thai, Malaysian",4.7,1800.0
+4,,Bikanervala,Indian Restaurant,28.468819157118112,77.06346197645392,"Mithai, Street Food, South Indian, North Indian, Chinese",4.2,600.0
+5,,The Firefly Biztro,Café,28.468760637006525,77.06714718457562,"Bakery, Desserts",3.6,500.0
+6,,Cafe Di Ghent,Café,28.468248362697366,77.08291804597158,"Cafe, Belgian",4.2,1700.0
+7,,Fat Lulu's,Pizza Place,28.467555017176956,77.08155051421342,"Pizza, Italian",4.0,800.0
+8,,"Brix, Street Bar & Rock Cafe",Diner,28.46822143501739,77.06270429940967,"Continental, Mexican, North Indian, Italian, Asian",4.1,1700.0
+9,,Cafe Delhi Heights,Café,28.46820072391548,77.08378617082396,"Cafe, Mexican, Bakery, Italian, Desserts",3.8,500.0
+10,,Naivedyam,Indian Restaurant,28.46499718066901,77.07903811493136,South Indian,4.1,550.0
+11,,Sakley's Mountain Cafe,Café,28.46758368316033,77.08169497501491,"Cafe, Italian, Continental",4.2,1200.0
+12,,Barbeque Nation,BBQ Joint,28.473585001866432,77.07865079580996,"Pizza, Italian, Salad",4.2,1700.0
+13,,Prego @ The Westin Gurgaon,Italian Restaurant,28.476926081242144,77.07077879942365,Bar Food,4.0,2800.0
+14,,The Pasta Bowl Company,Italian Restaurant,28.468166837232534,77.08337968660106,"Italian, Salad, Juices",4.3,1300.0
+15,,Di Ghent Boulangerie,Bagel Shop,28.46840079013386,77.08341954863492,"Cafe, Belgian",4.2,1700.0
+16,,Fruit Forest,Deli / Bodega,28.468750945783167,77.0635486907545,Korean,4.1,3000.0
+17,,Fat Lulu's,Italian Restaurant,28.46798754842916,77.0829322455519,"Pizza, Italian, Salad",4.2,1700.0
+18,,The Mind Cafe,Café,28.46808768085656,77.08312511444092,"Pizza, Italian, Salad",4.2,1700.0
+19,,Khan Chacha | खान चाचा | خان چاچا,Indian Restaurant,28.467280047826193,77.08163947730908,"Rolls, Kebab, Mughlai, North Indian",3.7,650.0
+20,,궁 Gung The Palace,Korean Restaurant,28.468465070782482,77.06249103944215,Korean,4.1,3000.0
+21,,Thai Pavillion,Thai Restaurant,28.455910617176567,77.07052598075025,"Thai, Asian",4.1,4000.0
+22,,Cafe Bali Hai,Asian Restaurant,28.46835525641097,77.08343205234351,"American, Italian, Healthy Food, Juices, Cafe",4.2,1500.0
+23,,Cafe Wanderlust,Café,28.467021916821494,77.08168061763418,"Cafe, Fast Food",4.0,600.0
+24,,Wild Fire,Brazilian Restaurant,28.46832048994275,77.05964223659062,Brazilian,4.0,5000.0
+25,,Dine Esty,Chinese Restaurant,28.460635218570538,77.07797848983725,"North Indian, Pizza",3.6,800.0
+26,,Dunkin' Donuts,Donut Shop,28.45944774116872,77.0728211475527,Bakery,3.5,200.0
+27,,Pintxo,Tapas Restaurant,28.46760694781194,77.08177224611548,"Spanish, Italian",4.1,1000.0
+28,,The Joint An Addiction,Burger Joint,28.46759593690231,77.08150591845121,"Cafe, Burger, Italian, American, Steak",4.2,1400.0
+29,,Le Marche,Bakery,28.467631819395372,77.08134640591321,"Bakery, Desserts, Fast Food",3.6,800.0
+30,,Red Hot Café,Asian Restaurant,28.468441231232383,77.07442639852506,"Chinese, Asian, Thai, Malaysian, Vietnamese, Japanese",3.8,1000.0
+31,,MoMo,Restaurant,28.46096922026557,77.08050648940251,"Mughlai, North Indian",3.8,500.0
+32,,The Monk,Chinese Restaurant,28.463142122986653,77.04903695574885,"North Indian, Chinese",0,300.0
+33,,Cafe Coffee Day (CCD),Café,28.468912479214254,77.06218041661162,"Beverages, Cafe, Sandwich, Fast Food",3.8,600.0
+34,,Pind Balluchi,Indian Restaurant,28.468428138680622,77.06440255309869,"North Indian, Mughlai, Kebab",3.7,1300.0
+35,,Balaji Restaurant,Diner,28.461161587318593,77.07962754742238,"Fast Food, Biryani",3.4,350.0
+36,,McDonald's,Fast Food Restaurant,28.468322905284253,77.0631954113615,"Chinese, North Indian, Fast Food",3.6,600.0
+37,,Culture Gully,Food Court,28.468218983475065,77.06964182778495,Rajasthani,3.6,800.0
+38,,latitude,Restaurant,28.455863534084322,77.07053670845899,Finger Food,3.9,3400.0
+39,,Sakura Japanese Restaurant,Japanese Restaurant,28.477570514995392,77.07648360130953,"Chinese, Thai, Japanese, Tibetan",3.8,800.0
+40,,Om Sweets,Indian Restaurant,28.4736156184153,77.04798828192092,"North Indian, Mithai, Fast Food, South Indian, Chinese",4.1,500.0
+41,,Café G,Indian Restaurant,28.46833079550173,77.05957529891124,"North Indian, Continental, Chinese",4.0,3500.0
+42,,Domino's Pizza,Pizza Place,28.473107054408977,77.06074460977683,"Pizza, Fast Food",3.4,800.0
+43,,Wendy's,Fast Food Restaurant,28.469318,77.062834,"Chinese, North Indian, Fast Food",3.6,600.0
+44,,Barista,Café,28.466812232589188,77.05821998600106,"Cafe, Beverages, Coffee, Desserts, Fast Food",3.1,600.0
+45,,Machan,Restaurant,28.466267757958118,77.06467103499256,"North Indian, Chinese, Continental, Bar Food",3.6,900.0
+46,,Sagar Ratna,Indian Restaurant,28.468502324570412,77.06293946300576,"South Indian, North Indian, Chinese",3.9,750.0
+47,,L'opera Patisserie,Bakery,28.467149485532538,77.0825250451936,"Bakery, Desserts",4.4,400.0
+48,,Domino's Pizza,Pizza Place,28.479,77.08,"Pizza, Fast Food",3.4,400.0
+49,,The Coffee Bean and Tea Leaf,Café,28.46860239758352,77.06267781408027,"North Indian, Chinese, Mughlai",3.9,2000.0
+50,,eat @ Joe's,American Restaurant,28.468496876700954,77.08319406332605,"Cafe, Fast Food",4.2,600.0
+51,,Double Roti,Sandwich Place,28.46714777924215,77.08183375558099,"North Indian, Mughlai",3.9,800.0
+52,,Subway,Sandwich Place,28.467632885419818,77.08138333685223,"Wraps, Healthy Food, Sandwich, Salad",3.2,350.0
+53,,Subway,Sandwich Place,28.46030044555664,77.07889556884766,"Wraps, Healthy Food, Sandwich, Salad",3.8,350.0
+54,,Domino's Pizza,Pizza Place,28.459,77.073,"Pizza, Fast Food",3.6,400.0
+55,,Choko la,Bakery,28.467400816002105,77.08246106061632,"Bakery, Desserts",3.6,700.0
+56,,Escape,Restaurant,28.467200939421495,77.08227848386548,"North Indian, Chinese, Asian, Continental, Mexican, Beverages",4.5,1200.0
+57,,Yo china,Chinese Restaurant,28.46854038406387,77.06351712482773,"Chinese, North Indian, Momos",2.9,350.0
+58,,Barista,Café,28.45855977656662,77.0830142100419,"Cafe, Beverages, Coffee, Desserts, Fast Food",3.8,600.0
+59,,Paranthe Wala,Snack Place,28.459175187569773,77.07482671995848,North Indian,3.5,200.0
+60,,Pizza hut,Pizza Place,28.468315302390096,77.07458266090109,"Pizza, Fast Food",3.3,900.0
+61,,Pizza Hut,Pizza Place,28.468861464980392,77.0621988724965,"Pizza, Fast Food",3.8,400.0
+62,,KFC,Fried Chicken Joint,28.4795915785749,77.08066507659463,"Burger, Fast Food",3.1,450.0
+63,,Burger King,Fast Food Restaurant,28.479521375653697,77.08048889786397,"Burger, Fast Food, Beverages",3.9,500.0
+64,,Crazy Noodles,Chinese Restaurant,28.46752351449211,77.08170978113249,"Cafe, Italian, Continental",4.2,1200.0
+65,,Mainland China,Chinese Restaurant,28.468691066718872,77.06240423447116,"Chinese, North Indian, Momos",2.9,350.0
+66,,The Great Kabab Factory,Indian Restaurant,28.45934583058699,77.0758286906392,"North Indian, Mughlai, Kebab",3.8,3000.0
+67,,New Town Cafe,Café,28.459236562833958,77.07558940682262,"Continental, Finger Food",3.6,3000.0
+68,,The California Boulevard,Restaurant,28.472345,77.071436,"Asian, Japanese, Thai, Chinese",4.1,3500.0
+69,,Cafe Gartino,Café,28.469600677490234,77.06270599365234,"Bar Food, North Indian, Continental",3.8,2200.0
+70,,Chin Chin,Chinese Restaurant,28.468512492456437,77.06293598041329,Chinese,3.9,200.0
+71,,Pizza Hut,Pizza Place,28.479407325188028,77.08089904024597,"Pizza, Fast Food",2.9,900.0
+72,,Drift Restaurant,Chinese Restaurant,28.453708954223995,77.07368719475939,"North Indian, Chinese, Mughlai",2.9,1100.0
+73,,Coco Palm,Indian Restaurant,28.467638593343565,77.08176459694022,"Andhra, Chettinad, Kerala, Seafood",4.0,1600.0
+74,,Eest,Asian Restaurant,28.47694933516127,77.07080794501184,Bar Food,4.0,2800.0
+75,,McDonald's,Fast Food Restaurant,28.480215382061637,77.08032376591501,"Bakery, Desserts",3.4,600.0
+76,,Cafe Coffee Day,Café,28.467648370239704,77.08139265638847,"Beverages, Cafe, Sandwich, Fast Food",3.8,600.0
+77,,Madhuban Satvik Restaurant,Indian Restaurant,28.46812760727495,77.08364369535904,"Cafe, Mexican, Bakery, Italian, Desserts",3.8,500.0
+78,,Coriander Leaf,Indian Restaurant,28.477865870101976,77.08101401231104,"North Indian, Chinese, Mughlai",3.7,550.0
+79,,来福,Japanese Restaurant,28.46241913483808,77.0681963586993,NA,0,0.0
+80,,Cafe & Restaurant Honey,Café,28.462336520669183,77.06828128611224,"Chinese, Japanese",3.2,1200.0
+81,,Sushi House Mafia,Food Truck,28.471750122514656,77.06507249357209,"Modern Indian, Bar Food, Sushi, Italian, Asian",4.6,1500.0
+82,,Seasonal Tastes,Breakfast Spot,28.47750948003263,77.07096657915915,"North Indian, Asian",4.1,3400.0
+83,,Not Just Paranthas,Indian Restaurant,28.479072893177406,77.0808294082814,"Pizza, Fast Food",2.9,900.0
+84,,Cooper's Grill & Bar,Restaurant,28.460470460685645,77.05144449810592,Japanese,3.7,2500.0
+85,,くふ楽,Japanese Restaurant,28.474448110688126,77.06022687228308,NA,0,0.0
+86,,Cocoa House,Café,28.46758997247862,77.08214594899697,"Pizza, Italian, Fast Food",4.1,900.0
+87,,Arza Bibi Kebabs,Asian Restaurant,28.46678705282242,77.0816090969961,"Mughlai, North Indian",3.8,600.0
+88,,Zaffran,Indian Restaurant,28.46176820537773,77.05247459747162,"Cafe, Fast Food, Beverages",4.2,500.0
+89,,AMPM Café & Bar,Café,28.467641,77.081869,"Continental, Italian, American, Momos, Beverages",4.0,2000.0
+90,,Jolly Rogers,Caribbean Restaurant,28.477630345965707,77.0760752006706,"North Indian, Italian, Continental",3.5,800.0
+91,,Blue Tokai Coffee Roasters,Café,28.467556,77.082502,"Coffee, Cafe",4.0,900.0
+92,,Barista,Café,28.47879843510526,77.07569620137615,"Cafe, Beverages, Coffee, Desserts, Fast Food",3.4,600.0
+93,,Monk,Asian Restaurant,28.461609384221358,77.05133335758802,"North Indian, Italian, Modern Indian, Continental",4.3,1800.0
+94,,Beanstalk,Bakery,28.459707238974257,77.0519461429067,"Cafe, Bakery",3.9,700.0
+95,,Raj restaurant sec31,Indian Restaurant,28.455974283936698,77.05485261437113,"North Indian, Chinese, Mughlai",3.4,550.0
+96,,Baujee Ka Dhaba,Indian Restaurant,28.480276229779474,77.08026140161256,"North Indian, Mughlai",3.9,2300.0
+97,,Greenr,Vegetarian / Vegan Restaurant,28.461388,77.04998,"Singaporean, Malaysian, Indonesian",4.1,2100.0
+98,,ichizen,Japanese Restaurant,28.463322,77.048971,Japanese,3.7,2500.0
+99,,Lockup,Indian Restaurant,28.460389833499647,77.08298048752117,"North Indian, Chinese, Mughlai, Continental, Healthy Food, Italian",4.1,850.0
